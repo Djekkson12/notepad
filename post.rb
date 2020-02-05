@@ -13,6 +13,7 @@ class Post
   def to_stings
 
 
+
   end
 
   def save
